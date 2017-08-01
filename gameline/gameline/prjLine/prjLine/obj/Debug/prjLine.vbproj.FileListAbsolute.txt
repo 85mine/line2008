@@ -1,0 +1,11 @@
+C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\prjLine\bin\Debug\prjLine.exe.config
+C:\Users\Dam\Desktop\gameline\gameline\prjLine\prjLine\bin\Debug\prjLine.exe.config
+C:\Users\Dam\Desktop\gameline\gameline\prjLine\prjLine\bin\Debug\prjLine.exe
+C:\Users\Dam\Desktop\gameline\gameline\prjLine\prjLine\bin\Debug\prjLine.pdb
+C:\Users\Dam\Desktop\gameline\gameline\prjLine\prjLine\bin\Debug\prjLine.xml
+C:\Users\Dam\Desktop\gameline\gameline\prjLine\prjLine\obj\Debug\prjLine.frmMain.resources
+C:\Users\Dam\Desktop\gameline\gameline\prjLine\prjLine\obj\Debug\prjLine.Resources.resources
+C:\Users\Dam\Desktop\gameline\gameline\prjLine\prjLine\obj\Debug\prjLine.vbproj.GenerateResource.Cache
+C:\Users\Dam\Desktop\gameline\gameline\prjLine\prjLine\obj\Debug\prjLine.exe
+C:\Users\Dam\Desktop\gameline\gameline\prjLine\prjLine\obj\Debug\prjLine.xml
+C:\Users\Dam\Desktop\gameline\gameline\prjLine\prjLine\obj\Debug\prjLine.pdb

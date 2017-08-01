@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="prjLine">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\prjLine.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\prjLine.suo">
+</Property><Property Name="Date" Value="Wednesday, October 19, 2011">
+</Property><Property Name="Time" Value="17:07 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="prjLine.sln" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine.sln">
+</Event><Event ErrorLevel="0" Project="" Source="prjLine.suo" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine.suo">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\prjLine.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\prjLine.vbproj">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\prjLine.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\prjLine.vbproj.user">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\frmMain.vb" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\frmMain.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\frmMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\app.config" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\app.config">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\My Project\app.manifest" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\My Project\Application.myapp" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\My Project\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\Resources\bgrPixel.png" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\Resources\bgrPixel.png">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\Resources\bgrPixelSelect.png" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\Resources\bgrPixelSelect.png">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\frmMain.resx" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\My Project\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Admin\Desktop\AI_gLine\line\prjLine\Backup\prjLine\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\prjLine.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="prjLine" Source="prjLine\prjLine.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="prjLine.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="prjLine.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="prjLine" Source="prjLine\prjLine.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
